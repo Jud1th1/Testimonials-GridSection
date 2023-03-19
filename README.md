@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://testimonialsgridsectionfm.netlify.app/
+- Live Site URL: (https://testimonialsgridsection-fm.netlify.app/)
 
 ## My process
 -	Remove the internal stylesheet to an external one
